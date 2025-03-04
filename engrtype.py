@@ -1,16 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        Diego Cardenas
-#               Jaime Cisneros
-#               Mauricio Alejandro
-#               Joey Arriola
-#               Cameron Palacios
-# Section:      562/462
-# Assignment:   Lab 13 | engrtype
-# Date:         11 24 24
-#
 import pygame as game
 import random as rand
 
