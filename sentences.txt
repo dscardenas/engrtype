@@ -1,0 +1,126 @@
+Course Number; ENGR 102 Course Title; Engineering Lab I; Computation
+Section; 461/561, 462/562, 463/563, & 564 Time; T Th
+461/561 - 8;00 AM to 9;50 AM
+462/562 - 10;05 AM to 11;55 AM
+463/563 - 12;10 PM to 2;00 PM
+564 - 2;15 PM to 4;05 PM
+Location; ZACH 353 Credit Hours; 2
+Instructor; Lance White '19 Office; ZACH 424 N
+E-Mail; llwhite1 at tamu.edu Office Hours; By Appointment
+Introduction to the design and development of computer applications for
+engineers; computation to enhance problem-solving abilities; basic concepts
+of software design through the implementation and debugging of student-written
+programs; introduction to engineering majors, career exploration, engineering
+practice within realistic constraints, e.g. economic, environmental, ethical,
+health and safety, and sustainability; pathways to success in engineering.
+C or better in MATH 150 or 151, or concurrent enrollment; admission to the
+This course provides an introduction into the design and development of
+computer applications for engineers. No prior experience in programming is
+necessary. Students will learn to use computation to enhance their problem-
+solving abilities. The course will cover basic concepts of software design
+through the implementation and debugging of student-written programs. This
+course also introduces engineering majors that are available to students, types
+of work engineers in their field do, engineering practice within realistic
+constraints, e.g. economic, environmental, ethical, health and safety, and
+sustainability, and the paths to success in their chosen field.
+Always use your at tamu.edu e-mail account to send correspondence between
+yourself and the teaching team. Always include 'ENGR102' in the subject line
+for all correspondence. Check your  at tamu.edu email account daily.
+Use your Canvas account http;/canvas.tamu.edu to access course information,
+Be an active problem solver, contributor, and discussant in class.
+Be prepared and accountable for class by reading the assigned material ahead
+of time and be able to answer simple questions over said material.
+Be held accountable for all assigned material that is, or is not, explicitly
+Upon successful completion of this course, students will be able to;
+Demonstrate the use of basic programming techniques in the construction of
+Collect, store, and manipulate data within a computer program
+Collect, create, store, and manipulate data in larger structures such as arrays,
+Use control structures, such as conditionals and loops, in computer programs
+Declare and use functions to solve computing-related problems
+Analyze data from a file and output processed results to a file
+Decompose a complicated task into more manageable pieces
+Apply programming techniques to solve problems in engineering, including
+Applying vector and matrix manipulation of data to solve engineering problems
+Graphically plotting data to visualize data and modeling concepts
+Manipulating data to numerically calculate quantities in the context of
+Applying conditionals and loops to implement numerical methods
+Complete a team programming assignment that ties together concepts learned in
+Complete the required homework assignments for introduction to engineering
+majors, engineering practice, and student success
+The course has one required textbook; ENGR 102; Engineering Lab I Computation -
+Important. - This is an electronic book. You can purchase an access code
+either at the bookstore, or online through the course Canvas web site. Do not
+buy at both the bookstore and online. It is not recommended to purchase a book
+and code package from other retailers, since their codes will not give you
+proper access to the publisher's online materials. You must purchase the
+textbook in order to submit your lab assignments.
+Your BYO computer. You should have the required course software Microsoft
+Office, Python 3 and associated IDE installed. Microsoft Office is available
+from TAMU Software. Python 3 et al. will be installed in class.
+Your required smartphone. Your cellphone may not be used as a calculator during
+Access to your TAMU Google Drive. This is a free service arranged by TAMU, and
+Languages; The primary language used in this course will be Python 3. Different
+sections may use different Integrated Development Environments e.g. PyCharm,
+Introduction to Majors; Information modules on the departments and majors of
+the college will be presented at various points of the term. The weeks during
+which these modules are made available have been coordinated with other
+activities the departments have planned. The goal of these modules is to improve
+student understanding of the breadth of engineering disciplines to aid in their
+selection of a major and to introduce the practice of engineering.
+Exam 1 20 percent - 110 minute in class midterm exam
+Exam 2 25 percent - 110 minute in class comprehensive second exam
+Lab Assignments 15 percent - Lab assignments will be assigned with each topic and
+are designed to help students understand the course material, provide practical
+programming experience, and help improve problem-solving abilities. Labs will
+consist of both in-class activities and take-home assignments. While many
+assignments will be individual, some lab assignments will be done in teams.
+In-Class Quizzes 20 percent - You will have a variety of assignments throughout the
+term, including lab assignments and in-class quizzes. In-class quizzes consist of
+questions concerning material in the lecture and lab assignments. The purpose of
+the quizzes is to help you stay caught up on the lecture material in the class as
+well as to test your understanding of the lab assignments. The lowest quiz grade
+Zybook Participation 9 percent - You will have to complete 95 percent of the Zybooks
+reading material to earn this portion of your grade for this course. That means
+reading and participating in the various interactive questions throughout each
+module/chapter. Your participation must be completed no later than 1 week after
+the lecture of that particular module. Failure to complete the reading and
+activities of these modules in your Zybook will be recorded digitally and will be
+Department Module Homework assignments 8 percent - Students must complete the
+assignments having to do with the introduction of the engineering disciplines &
+engineering practice, as well as the modules addressing student success.
+Industry Night Essay and DI Saturday Essays 3 percent - You will be required to
+attend 1 Industry Night Seminar during the term. These are informational events
+featuring different companies that hire engineering graduates. Information on
+dates and companies will be forthcoming. You will be required to attend 2
+Department Information Presentations on Saturday, October 12, 2024. For all of
+these events you will need to submit a short 250 word essay indicating you
+attended and paid attention. More details on Industry Nights and DI Saturday will
+The following grading scale will be used to determine your semester course grade,
+your graded will not be rounded and assignments/exams will not be curved;
+When submitting a file electronically via a Canvas or zyBooks submission box,
+you are required to check that the file was uploaded successfully. This may be
+checked by trying to download the file that you just submitted. This helps prevent
+errors such as when students may inadvertently Save rather than Submit or
+submit a corrupted file. Work that was Saved but not Submitted cannot be
+accessed by the grading team and therefore will not be graded.
+Late work is accepted, with a penalty. For 1 day late there is no penalty, do
+not email me, just get it in. For 2 days late I expect an email informing me of
+the late submission and you will receive a 10 percent reduction in your possible grade
+for that assignment. For 3 days late I also require an email and there will be a
+15 percent reduction in total possible points. For 4 plus days late I require an email and
+office hours visit for potential submission, up to a 20 percent reduction may be
+enforced. If no email is sent prior to the due date, I will not accept the late
+work and it will be recorded in Canvas as a zero. Quizzes will not be rescheduled
+for individuals without an excused absence or office hours meeting. The lowest
+quiz grade will be dropped for each student, even if that grade is a zero.
+Attendance in class is strongly recommended. Missed work may be made up if you
+have an excused absence as defined in Part I, Section 7 of the TAMU Student Rules
+or an unexcused absence approved by the instructor before missing class. In the
+case of an emergency, you must send notification as soon as possible. There will
+be no opportunity to make up missed work due to an unexcused absence that is not
+approved by the instructor. Missed work must be made up or scheduled to make up
+within one week of the absence. Work not made up within one week will be treated
+as a late submission, and the normal penalties for late work will apply.
+We will follow University rules and regulations as outlined in the TAMU
+Student Rules for the University. You are expected to understand these policies.
+Students must complete all parts of the course, including all exams and
